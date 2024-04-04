@@ -56,7 +56,7 @@ Submit Portal: TBA
 
 ### Important Dates  
 * __Submission__: June 15, 2024
-* __Notification__: July 15, 2023
+* __Notification__: July 15, 2024
 * __Camera-ready__: TBA
 * __Workshop date__: TBA
 
