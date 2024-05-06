@@ -52,7 +52,7 @@ Accepted contributions will be __posted on the workshop website (unless the auth
 
 For accepted contributions, at least one author must register for the conference and attend the workshop to present the work. 
 
-Submit Portal: TBA
+Submit Portal: <https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/Track/21/Submission/Create>
 
 ### Important Dates  
 * __Submission__: June 15, 2024
@@ -63,5 +63,4 @@ Submit Portal: TBA
 ## Further information and Contact 
 * __Organizers__: Alexandru Cristian Mara, Guillaume Bied, Bo Kang, Toine Bogers, Tijl De Bie
 * __Website URL__: <https://ai4hrpes.github.io/ecmlpkdd2024/>
-* __Submission URL__: <https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/Track/21/Submission/Create>
 * __E-mail__: <mailto:ai4hrpes.ecmlpkdd@gmail.com>
