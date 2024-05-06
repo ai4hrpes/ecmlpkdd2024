@@ -63,5 +63,5 @@ Submit Portal: TBA
 ## Further information and Contact 
 * __Organizers__: Alexandru Cristian Mara, Guillaume Bied, Bo Kang, Toine Bogers, Tijl De Bie
 * __Website URL__: <https://ai4hrpes.github.io/ecmlpkdd2024/>
-* __Submission URL__: TBA
+* __Submission URL__: <https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/Track/21/Submission/Create>
 * __E-mail__: <mailto:ai4hrpes.ecmlpkdd@gmail.com>
