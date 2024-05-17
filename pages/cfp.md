@@ -58,7 +58,7 @@ Submit Portal: <https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/Track/
 * __Submission__: June 15, 2024
 * __Notification__: July 15, 2024
 * __Camera-ready__: TBA
-* __Workshop date__: TBA
+* __Workshop date__: September 09, 2024
 
 ## Further information and Contact 
 * __Organizers__: Alexandru Cristian Mara, Guillaume Bied, Bo Kang, Toine Bogers, Tijl De Bie
