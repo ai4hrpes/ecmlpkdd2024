@@ -55,7 +55,7 @@ For accepted contributions, at least one author must register for the conference
 Submit Portal: <https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/Track/21/Submission/Create>
 
 ### Important Dates  
-* __Submission__: June 15, 2024
+* __Submission__: ~June 15, 2024~ <span style="color:red">June 22, 2024</span>
 * __Notification__: July 15, 2024
 * __Camera-ready__: TBA
 * __Workshop date__: September 09, 2024
